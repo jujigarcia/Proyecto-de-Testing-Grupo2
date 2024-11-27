@@ -8,7 +8,7 @@ body {
 
 header {
     background-color: #4caf82;
-    color: white;
+    color: black;
     padding: 1em;
 }
 
@@ -73,7 +73,7 @@ header img {
 
 footer {
     background-color: #4caf82;
-    color: white;
+    color: black;
     text-align: center;
     padding: 1em;
     position: fixed;
